@@ -1,0 +1,2 @@
+# WaddahAttarExplosion
+WaddahAttarExplosion indicator recreated for NinajTrader8
