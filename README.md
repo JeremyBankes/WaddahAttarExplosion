@@ -9,8 +9,10 @@ The indicator shows the moments of the market acceleration. Besides, it indicate
 
 This indicator was first published in Code Base at mql4.com 06.03.2008.
 
-![cover image][cover]
+![cover image][cover =300px]
 
 Based on the [Waddah Attar Explosion Indicator for MetaTrader 4](https://www.mql5.com/en/code/7051)
 
 [cover]: https://raw.githubusercontent.com/JeremyBankes/WaddahAttarExplosion/master/cover.png
+
+For inquiries about createing or recreating indicators or strategies feel free to contact me [here](https://jeremybankes.com/contact).
