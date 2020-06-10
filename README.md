@@ -1,5 +1,5 @@
 # WaddahAttarExplosion
-WaddahAttarExplosion indicator recreated for NinajTrader8
+WaddahAttarExplosion indicator recreated for NinjaTrader8
 
 Indicator Waddah Attar Explosion is very powerful. It alerts you to buy, sell, exit buy and exit sell.
 
